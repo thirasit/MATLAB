@@ -1,0 +1,5 @@
+The Image Processing Toolbox Image Data provides a 3D volumetric chest scan that can be used in Image Processing Apps and in conjunction with a 3D image processing example within Image Processing Toolbox: https://www.mathworks.com/help/images/segment-lungs-from-3-d-chest-mri-data.html
+
+Opening the .mlpkginstall file from your operating system or from within MATLAB will initiate the installation process available for the release you have. 
+This .mlpkginstall file is functional for R2017a and beyond.
+Watch this video to learn more about how to explore this data inside MATLAB: https://www.mathworks.com/videos/3d-volumetric-image-processing-demo--1487886076699.html
