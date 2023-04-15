@@ -1,0 +1,3 @@
+# **Linear Plant Specification**
+
+Model predictive controllers use linear models to control both linear and nonlinear plants that run within a local operating range. Plants with complex characteristics such as long time delays, higher-order dynamics, or strong interactions are particularly well-suited for model predictive control. To create a linear plant model, you can directly specify a linear model, linearize a Simulink® model, or identify a linear model using measured data. When creating a plant model for use in model predictive control, it is important to specify the input and output signal types and scale factors.
